@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/BinPar/bpt-next/compare/v1.3.2...v1.4.0) (2022-02-01)
+
+
+### Features
+
+* animals ([d1dff71](https://github.com/BinPar/bpt-next/commit/d1dff7112547e826d5a041a1d5fb1c9840aafe40))
+* animals ([f1e147f](https://github.com/BinPar/bpt-next/commit/f1e147fab17eace8ca229cb79379ad37a41bbc73))
+
+
+### Bug Fixes
+
+* remove test ([f6de740](https://github.com/BinPar/bpt-next/commit/f6de74027fc1a50c310b857305b5dcfcb06a4d4c))
+* removez next-env.d.ts ([b766a44](https://github.com/BinPar/bpt-next/commit/b766a44af38d71b425049f87fd3b4b843c19740c))
+
+
+### Docs
+
+* Arrancar el proyecto ([dee7edf](https://github.com/BinPar/bpt-next/commit/dee7edfeef90fa9044275a793ba65bd7ad9048f1))
+
 ### [1.3.2](https://github.com/BinPar/bpt-next/compare/v1.3.1...v1.3.2) (2022-02-01)
 
 
