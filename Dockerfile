@@ -17,6 +17,7 @@ RUN npm set progress=false && npm config set depth 0 && \
 FROM build-base AS compile
 COPY --chown=1001:root ./pages ./pages
 COPY --chown=1001:root ./src ./src
+COPY --chown=1001:root ./public ./public
 COPY --chown=1001:root postcss.config.js ./
 COPY --chown=1001:root tailwind.config.js ./
 COPY --chown=1001:root next.config.js ./
