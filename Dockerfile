@@ -20,7 +20,6 @@ COPY --chown=1001:root ./src ./src
 COPY --chown=1001:root postcss.config.js ./
 COPY --chown=1001:root tailwind.config.js ./
 COPY --chown=1001:root next.config.js ./
-COPY --chown=1001:root next-env.d.ts ./
 COPY --chown=1001:root --from=dependencies /opt/app-root/src/node_modules ./node_modules
 RUN npm run build
 
