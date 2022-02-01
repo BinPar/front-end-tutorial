@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/BinPar/bpt-next/compare/v1.1.0...v1.2.0) (2022-02-01)
+
+
+### Features
+
+* tailwind setup ([6dd506d](https://github.com/BinPar/bpt-next/commit/6dd506dbbd7348763d7e92a6d04e90e0d27f3e85))
+
+
+### Bug Fixes
+
+* deploy ([ae7a553](https://github.com/BinPar/bpt-next/commit/ae7a553756bf85301da13b404409f3092292c605))
+* spell ([ed11b99](https://github.com/BinPar/bpt-next/commit/ed11b999941cfdd78bee4e9a968efd62fc6e0b23))
+
+
+### Docs
+
+* readme ([4f994f7](https://github.com/BinPar/bpt-next/commit/4f994f7372cb68302ced5f0dba1488777bab879e))
+
 ## 1.1.0 (2022-02-01)
 
 
