@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/BinPar/bpt-next/compare/v1.4.0...v1.4.1) (2022-02-01)
+
+
+### Bug Fixes
+
+* images ([df7e732](https://github.com/BinPar/bpt-next/commit/df7e7327c89302ee88013c8820ccc24ee8349523))
+
 ## [1.4.0](https://github.com/BinPar/bpt-next/compare/v1.3.2...v1.4.0) (2022-02-01)
 
 
