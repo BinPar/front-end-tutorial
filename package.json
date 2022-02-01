@@ -1,7 +1,7 @@
 {
-  "name": "bpt-next",
+  "name": "front-end-tutorial",
   "version": "1.0.0",
-  "description": "NextJS - BinPar Template",
+  "description": "Tutorial del stack de BinPar para programadores front-end",
   "scripts": {
     "dev": "next dev",
     "useNodeLTS": ". ~/.nvm/nvm.sh && nvm install && nvm use",
@@ -17,7 +17,7 @@
     "test-dev": "NODE_ENV=development jest --watch"
   },
   "homepage": "https://github.com/BinPar/bpt-next#readme",
-  "author": "Marcos González <marcos@binpar.com> (https://www.binpar.com/)",
+  "author": "Ignacio Ferro Picón <nacho@binpar.com> (https://www.binpar.com/)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BinPar/bpt-next.git"
