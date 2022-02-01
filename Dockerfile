@@ -17,6 +17,7 @@ RUN npm set progress=false && npm config set depth 0 && \
 FROM build-base AS compile
 COPY --chown=1001:root ./pages ./pages
 COPY --chown=1001:root ./src ./src
+COPY --chown=1001:root ./styles ./styles
 COPY --chown=1001:root --from=dependencies /opt/app-root/src/node_modules ./node_modules
 RUN npm run build
 
