@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/BinPar/bpt-next/compare/v1.3.1...v1.3.2) (2022-02-01)
+
+
+### Bug Fixes
+
+* ops... not compiling ([c94c332](https://github.com/BinPar/bpt-next/commit/c94c3321814ee37b179c3e75e1bf8e76563d7f6d))
+
 ### [1.3.1](https://github.com/BinPar/bpt-next/compare/v1.3.0...v1.3.1) (2022-02-01)
 
 
