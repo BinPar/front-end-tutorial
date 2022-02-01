@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/BinPar/bpt-next/compare/v1.3.0...v1.3.1) (2022-02-01)
+
+
+### Bug Fixes
+
+* tailwind in docker image ([78f3569](https://github.com/BinPar/bpt-next/commit/78f3569c8d7d9882c64d5f5b92edd520e8f575c8))
+
 ## [1.3.0](https://github.com/BinPar/bpt-next/compare/v1.2.0...v1.3.0) (2022-02-01)
 
 
