@@ -23,6 +23,10 @@ RUN npm run build
 # ---- Release  ----
 FROM registry.access.redhat.com/ubi8/nodejs-16-minimal:latest AS release
 COPY --chown=1001:root package*.json ./
+COPY --chown=1001:root postcss.config.js ./
+COPY --chown=1001:root tailwind.config.js ./
+COPY --chown=1001:root next.config.js ./
+COPY --chown=1001:root next-env.d.ts ./
 COPY --from=dependencies --chown=1001:root /opt/app-root/src/prod_node_modules ./node_modules
 COPY --from=compile --chown=1001:root /opt/app-root/src/.next ./.next
 COPY --chown=1001:root ./public /opt/app-root/src/public
